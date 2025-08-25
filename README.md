@@ -1,4 +1,4 @@
-🌱 Soil Carbon Monitoring System
+**🌱 Soil Carbon Monitoring System
 
 This is a simple Python project for monitoring soil carbon data. It allows storing, viewing, and analyzing soil carbon levels with charts and maps. The project is built using Flask, MySQL (HeidiSQL), Leaflet.js, and Chart.js.
 
@@ -81,3 +81,4 @@ Improve user login and authentication.
 🤝 Contributing
 
 This is a learning project. Feel free to fork the repository and improve the code.
+**
